@@ -1,0 +1,8 @@
+cc_env_id = "env-vrv23p"
+azure_vnet_name = "sts-se-poc-networking"
+azure_subnet_name = "kubota-test-subnet"
+cc_network_location = "eastus"
+azure_resource_group_name = "sts-se-poc"
+azure_subscription_id = "54ff81a0-e7f6-4919-9053-4cdd1c5xxxxx"
+cc_api_key = "X72TAFU53Q7XXXXX"
+cc_api_secret = "v1m9wQ4FLfzZuR+p295DHk7/tfRvcVlsxxxxxxxxxxxxxxxxxxxxxxxxx"
